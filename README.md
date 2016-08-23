@@ -13,7 +13,7 @@ that depends on ZfcBase.
 
 ## Requirements
 
-* Zend Framework 2
+* Zend Framework 3
 
 ## Installation
 
